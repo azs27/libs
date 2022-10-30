@@ -1,15 +1,11 @@
 {
-  "name": "shims",
+  "name": "traz-libs",
   "version": "1.0.0",
   "description": "Librerias javascript",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azs27/shims.git"
+    "url": "git+https://github.com/azs27/libs.git"
   },
   "author": "AZS",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/azs27/shims/issues"
-  },
-  "homepage": "https://github.com/azs27/shims#readme"
+  "license": "MIT"
 }
